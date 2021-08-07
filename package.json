@@ -6,9 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "PaulHA",
   "license": "ISC",
   "dependencies": {
     "unique-random-array": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulHA123/starwars-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulHA123/starwars-random/issues"
   }
 }
